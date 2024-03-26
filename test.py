@@ -1,7 +1,7 @@
 print('hi')
 
-print()
 
+print()
 
 print('bfibeifhwebauipoe')
 print('bfibeifhwebauipoe')
